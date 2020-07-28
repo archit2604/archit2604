@@ -12,9 +12,5 @@ Member of [ERC,BITS Goa](https://github.com/ERC-BPGC) and [Project Kratos](https
 * [GenNav](https://github.com/ERC-BPGC/gennav)
 * [Trotbot](https://github.com/ERC-BPGC/Trotbot)
 
-### Languages/Frameworks:
-* C/C++
-* Python
-* Arduino IDE
-* ROS
+
 
