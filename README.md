@@ -10,6 +10,7 @@ Member of [ERC,BITS Goa](https://github.com/ERC-BPGC) and [Project Kratos](https
 ### Currently working on:
 * Control Subsystem for Project Kratos
 * [GenNav](https://github.com/ERC-BPGC/gennav)
+* [GenNav-ROS](https://github.com/ERC-BPGC/gennav_ros)
 * [Trotbot](https://github.com/ERC-BPGC/Trotbot)
 
 
