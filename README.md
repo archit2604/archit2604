@@ -1,15 +1,5 @@
 ### Hi there 👋
 
-I am Archit Rungta, a EEE undergrad at BITS Pilani,Goa Campus.Interested in Robotics.
-Trying to learn more about Reinforcement Learning and Computer Vision.
+I am Archit Rungta, I am a final year undergraduate student at BITS Pilani, India studying Electrical and Electronics Engineering. I am due to complete my undergraduate thesis in December 2022, which I am pursuing at the Biorobotics Lab, Robotics Institute, under Prof. Howie Choset on Multimodal Inspection and Adaptive Path Planning for Wire Arc Additive Manufacturing.
 
-Technical Head of [ERC,BITS Goa](https://github.com/ERC-BPGC) and [Project Kratos](https://www.facebook.com/KratosBITSGoa/)
-
-### Currently working on:
-* Control Subsystem for Project Kratos
-* [GenNav](https://github.com/ERC-BPGC/gennav)
-* [GenNav-ROS](https://github.com/ERC-BPGC/gennav_ros)
-* [Trotbot](https://github.com/ERC-BPGC/Trotbot)
-
-
-
+I am particularly interested in Motion Planning, Controls and Robot Vision.
